@@ -151,8 +151,7 @@
 
         .controls #vidTitle {
             width: 246px;
-            position: relative;
-            top: 5px;
+            padding-bottom: 10px;
         }
 
         .controls#qualitySettings button,
@@ -220,10 +219,10 @@
     <div id="about" style="display: none;">
         <i id="aboutClose" style="float:right; cursor: pointer;" class="fa fa-times"></i>
         <h1>About Hikori.pl</h1>
-        <p>Hikori.pl is service where you can watch your favourites anime openings and endings in endless loop!</p>
+        <p>Hikori.pl allows you to watch your favourites anime openings and endings in endless loop!</p>
         <h1>FAQ</h1>
         <p><span style="color: #00aada;">How many tracks is in your database?</span></p>
-        <p>At this moment 59, giving total of 1.8G</p>
+        <p>At this moment <span id="databaseSizeInfo"></span></p>
         <p><span style="color: #00aada;">What does "200% volume" mean?</span></p>
         <p>It's a bit tricky. Scale (0% - 100%) is really 0-50% scale - we use this trick to keep the best user experience and in care of your ears.</p>
         <p><span style="color: #00aada;">Can I check source code?</span></p>
@@ -275,6 +274,7 @@
         var aboutButton = document.getElementById('aboutButton');
         var aboutClose = document.getElementById('aboutClose');
         var qualityInfo = document.getElementById('qualityInfo');
+        var databaseSizeInfo = document.getElementById('databaseSizeInfo');
         var opListLength = opList.items.length;
         var qualityButtons = [qualityLowButton, qualityMediumButton, qualityHighButton];
         var quality;
@@ -294,6 +294,7 @@
             $('#trackList').append('<button class="trackListElement" data-id="' + i + '">' + opList.items[i].title + '</button>');
         });
         var trackListElements = document.getElementsByClassName('trackListElement');
+        databaseSizeInfo.innerHTML = opListLength;
 
         //functions
         function vidFade() {
@@ -370,46 +371,46 @@
         }
 
         function vidPlay() {
-            var videoQuality = getQuality(currentVideoID, quality);
+            var videoQuality = getQuality(currentVideoId, quality);
             var baseDir;
-            if(opList.items[currentVideoID].file[videoQuality].normalized) {
+            if(opList.items[currentVideoId].file[videoQuality].normalized) {
                 baseDir = 'storage/normalized/';
             } else {
                 baseDir = 'storage/';
             }
-            vidSource.src = baseDir + opList.items[currentVideoID].file[videoQuality].filename;
-            vidTitle.innerHTML = '<marquee behavior="scroll" scrollamount="3" direction="left" width="246">' + opList.items[currentVideoID].title + '</marquee>';
-            qualityInfo.innerHTML = opList.items[currentVideoID].file[videoQuality].quality;
+            vidSource.src = baseDir + opList.items[currentVideoId].file[videoQuality].filename;
+            vidTitle.innerHTML = '<marquee behavior="scroll" scrollamount="3" direction="left" width="246" style="margin-bottom: -5px;">' + opList.items[currentVideoId].title + '</marquee>';
+            qualityInfo.innerHTML = opList.items[currentVideoId].file[videoQuality].quality;
             vid.load();
             vid.classList.remove("stopfade");
             pauseButton.innerHTML = "Pause";
         }
 
         function vidNext() {
-            if(currentVideoID < opListLength - 1) {
-                currentVideoID += 1;
+            if(currentVideoId < opListLength - 1) {
+                currentVideoId += 1;
             } else {
-                currentVideoID = 0;
+                currentVideoId = 0;
             }
             vidPlay()
         }
 
         function vidPrev() {
-            if (currentVideoID > 0) {
-                currentVideoID -= 1;
+            if (currentVideoId > 0) {
+                currentVideoId -= 1;
             } else {
-                currentVideoID = opListLength - 1;
+                currentVideoId = opListLength - 1;
             }
             vidPlay()
         }
 
         function vidRandom() {
-            currentVideoID = Math.floor((Math.random() * opListLength));
+            currentVideoId = Math.floor((Math.random() * opListLength));
             vidPlay()
         }
 
         function vidPlayId(id) {
-            currentVideoID = id;
+            currentVideoId = id;
             vidPlay()
         }
 
@@ -517,7 +518,7 @@
                     $.cookie('quality', quality, {expires: 30});
                 }
                 var currentTime = vid.currentTime;
-                vidPlayId(currentVideoID);
+                vidPlayId(currentVideoId);
                 vid.currentTime = currentTime;
             });
         }

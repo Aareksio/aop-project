@@ -57,10 +57,10 @@
     <div id="about" style="display: none;">
         <i id="aboutClose" style="float:right; cursor: pointer;" class="fa fa-times"></i>
         <h1>About Hikori.pl</h1>
-        <p>Hikori.pl is service where you can watch your favourites anime openings and endings in endless loop!</p>
+        <p>Hikori.pl allows you to watch your favourites anime openings and endings in endless loop!</p>
         <h1>FAQ</h1>
         <p><span style="color: #00aada;">How many tracks is in your database?</span></p>
-        <p>At this moment 59, giving total of 1.8GB</p>
+        <p>At this moment <span id="databaseSizeInfo"></span></p>
         <p><span style="color: #00aada;">What does "200% volume" mean?</span></p>
         <p>It's a bit tricky. Scale (0% - 100%) is really 0-50% scale - we use this trick to keep the best user experience and in care of your ears.</p>
         <p><span style="color: #00aada;">Can I check source code?</span></p>
