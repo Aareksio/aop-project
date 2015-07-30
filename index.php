@@ -63,8 +63,8 @@
         <p>At this moment 59, giving total of 1.8GB</p>
         <p><span style="color: #00aada;">What does "200% volume" mean?</span></p>
         <p>It's a bit tricky. Scale (0% - 100%) is really 0-50% scale - we use this trick to keep the best user experience and in care of your ears.</p>
-        <p><span style="color: #00aada;">Why is volume level different on every track?</span></p>
-        <p>We're working on this. After reaching our current goal (100 tracks) we'll equalize volume level.</p>
+        <p><span style="color: #00aada;">Can I check source code?</span></p>
+        <p>Sure, here's <a style="text-decoration: none; color: #00aada;" href="https://github.com/Aareksio/aop-project">our GitHub page</a></p>
     </div>
     <div id="footer">
         aareksio@gmail.com | <span id="aboutButton">About site</span> | Current video quality: <span id="qualityInfo"></span>
