@@ -1,0 +1,930 @@
+{
+    "items": [
+        {
+            "title": "AnoHana (Ed 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "AnoHanaEd1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "AnoHanaEd1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=JRF5TIhshlo"
+        },
+        {
+            "title": "Black Bullet (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "BlackBulletOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "BlackBulletOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=GApuR37lT-4"
+        },
+        {
+            "title": "Blood Lab (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "BloodLabOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "BloodLabOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=GApuR37lT-4"
+        },
+        {
+            "title": "Charlotte (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "CharlotteOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "CharlotteOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=2MtFVJtazqA"
+        },
+        {
+            "title": "Code Geass (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "CodeGeassOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "CodeGeassOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=3dYjJ3kOGoY"
+        },
+        {
+            "title": "Code Geass (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "CodeGeassOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "CodeGeassOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=YBhsDtFUgdM"
+        },
+        {
+            "title": "Code Geass R2 (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "CodeGeassR2Op1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "CodeGeassR2Op1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=AgWI4EQ78ik"
+        },
+        {
+            "title": "Code Geass R2 (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "CodeGeassR2Op2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "CodeGeassR2Op2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=osKkMKolWQ8"
+        },
+        {
+            "title": "Death Parade (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "DeathParadeOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "DeathParadeOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=UjjTMNDZi-A"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=cGcoZh3MIiY"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Ed 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABEd1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABEd1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=mlEPdtZeECk"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=iOsN2FP3-l4"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Op 3)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABOp3.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABOp3_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=IAHbR8WbFfs"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Op 4)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABOp4.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABOp4_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=cGcoZh3MIiY"
+        },
+        {
+            "title": "Full Metal Alchemist: Brotherhood (Op 5)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FMABOp5.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FMABOp5_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=9Ngz0yqm_1w"
+        },
+        {
+            "title": "Fairy Tail (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=tdrGjixAtKU"
+        },
+        {
+            "title": "Fairy Tail (Op 6)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp6.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp6_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=PuTjJBXNu7M"
+        },
+        {
+            "title": "Fairy Tail (Op 8)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp8.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp8_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=LX3v651Ip8E"
+        },
+        {
+            "title": "Fairy Tail (Op 9)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp9.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp9_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=5CnUvHWD8ZY"
+        },
+        {
+            "title": "Fairy Tail (Op 14)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp14.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp14_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=ejWTziE2YPA"
+        },
+        {
+            "title": "Fairy Tail (Op 15)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp15.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp15_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=thOJqPmtiW4"
+        },
+        {
+            "title": "Fairy Tail (Op 16)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "FTOp16.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "FTOp16_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=KmUJXDvO8D4"
+        },
+        {
+            "title": "Gangsta (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "GangstaOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "480p",
+                    "filename": "GangstaOp1_480.mp4",
+                    "normalized": true
+                }
+            ]
+        },
+        {
+            "title": "GATE (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "GATEOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "GATEOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=BjDWdZxUba8"
+        },
+        {
+            "title": "Hataraku Maou-sama (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "HatarakuMaousamaOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "HatarakuMaousamaOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=irzBkoKHC_8"
+        },
+        {
+            "title": "GOD EATER (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "GodEaterOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "GodEaterOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=J3SlOZYxJA0"
+        },
+        {
+            "title": "Highschool Of The Dead (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "HighschoolOfTheDeadOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "HighschoolOfTheDeadOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=zqHeSaAIl4c"
+        },
+        {
+            "title": "K-ON! (Op 1, ver. 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "KONOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "KONOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=TIpA_B5khZc"
+        },
+        {
+            "title": "K-ON! (Ed 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "KONEd1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "KONEd1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=lX-yENHkeMo"
+        },
+        {
+            "title": "Mirai Nikki (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "MiraiNikkiOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "MiraiNikkiOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=ql0NtjXIv_s"
+        },
+        {
+            "title": "Mirai Nikki (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "MiraiNikkiOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "MiraiNikkiOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=0_36iNzrEn0"
+        },
+        {
+            "title": "Mirai Nikki (Op 3)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "MiraiNikkiOp3.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "MiraiNikkiOp3_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=2lx0S9LrOPc"
+        },
+        {
+            "title": "Mondaiji tachi ga Isekai kara Kuru Sou Desu Yo (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "MtgikksdyOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "MtgikksdyOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=ySn55tUVfxM"
+        },
+        {
+            "title": "No Game No Life (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "NoGameNoLifeOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "480p",
+                    "filename": "NoGameNoLifeOp1_480.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=8md9dNe37NU"
+        },
+        {
+            "title": "Outbreak Company (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "OutbreakCompanyOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "OutbreakCompanyOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=ZDKT5KJFoVU"
+        },
+        {
+            "title": "OverLord (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "OverLordOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "OverLordOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=jMoVmSV4yA8"
+        },
+        {
+            "title": "Rokka no Yuusha (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "RokkanoYuushaOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "RokkanoYuushaOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=R3PKilppMyQ"
+        },
+        {
+            "title": "Sakurasou no Pet na Kanojo (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SakurasouNoPetNaKanojoOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SakurasouNoPetNaKanojoOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=zL6lJ3cP6kw"
+        },
+        {
+            "title": "Sword Art Online II (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SAO2Op1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SAO2Op1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=W4ldf7beu58"
+        },
+        {
+            "title": "Sword Art Online II (Op 2 - Yuuki version)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SAO2Op2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SAO2Op2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=fBxKctFlvv8"
+        },
+        {
+            "title": "Shakugan No Shana (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "ShakuganNoShanaOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "480p",
+                    "filename": "ShakuganNoShanaOp1_480.mp4",
+                    "normalized": true
+                }
+            ]
+        },
+        {
+            "title": "Shakugan No Shana (Ed 1)",
+            "file": [
+                {
+                    "quality": "360p",
+                    "filename": "ShakuganNoShanaEd1_360.mp4",
+                    "normalized": true
+                }
+            ]
+        },
+        {
+            "title": "Shingeki no Bahamut: Genesis (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "ShingekinoBahamutGenesisOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "ShingekinoBahamutGenesisOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=NKe6oBmnxGI"
+        },
+        {
+            "title": "Shirobako (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "ShirobakoOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "480p",
+                    "filename": "ShirobakoOp1_480.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=2e9S2z3vPhI"
+        },
+        {
+            "title": "Shirobako (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "ShirobakoOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "ShirobakoOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=xD7SJ5wgGX0"
+        },
+        {
+            "title": "Shingeki no Kyojin (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SnKOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SnKOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=XMXgHfHxKVM"
+        },
+        {
+            "title": "Shingeki no Kyojin (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SnKOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SnKOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=6PBxDpj4RAw"
+        },
+        {
+            "title": "Soul Eater (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SoulEaterOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SoulEaterOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=2K9RzFsWttY"
+        },
+        {
+            "title": "Soul Eater (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SoulEaterOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SoulEaterOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=obL44Ljv2VQ"
+        },
+        {
+            "title": "Steins;Gate (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "SteinsGateOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "SteinsGateOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=sJEGb4MPV6I"
+        },
+        {
+            "title": "To Aru Kagaku No Railgun (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "ToaruKagakunoRailgunOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "ToaruKagakunoRailgunOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=Xv04KvUobL0"
+        },
+        {
+            "title": "To aru Kagaku no Railgun S (Op 1)",
+            "file": [
+                {
+                    "quality": "360p",
+                    "filename": "ToaruKagakunoRailgunSOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=iPAk08RmT6s"
+        },
+        {
+            "title": "Tokyo Ghoul (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "TokyoGhoulOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "TokyoGhoulOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=3dYjJ3kOGoY"
+        },
+        {
+            "title": "Tokyo Ghoul Root A (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "TokyoGhoulROp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "TokyoGhoulROp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=nhY5aIYxsz0"
+        },
+        {
+            "title": "UN-GO (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "UnGoOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "UnGoOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=BRw1dMJif8o"
+        },
+        {
+            "title": "World Trigger (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "WorldTriggerOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "WorldTriggerOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=a3RwHul5dDk"
+        },
+        {
+            "title": "Zankyou No Terror (Op 1)",
+            "file": [
+                {
+                    "quality": "360p",
+                    "filename": "ZNTOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=oc00ABaD4cI"
+        },
+        {
+            "title": "Zetsuen no Tempest (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "TempestOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "TempestOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=YtNMIbQPzCY"
+        },
+        {
+            "title": "Zetsuen no Tempest (Op 2)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "TempestOp2.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "TempestOp2_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=q9zELdSQV1U"
+        }
+    ]
+}

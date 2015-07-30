@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "title": "Btooom! (Op 1)",
+            "file": [
+                {
+                    "quality": "720p",
+                    "filename": "BtooomOp1.mp4",
+                    "normalized": true
+                },
+                {
+                    "quality": "360p",
+                    "filename": "BtooomOp1_360.mp4",
+                    "normalized": true
+                }
+            ],
+            "source": "https://www.youtube.com/watch?v=d73yZRCx2NI"
+        }
+    ]
+}
