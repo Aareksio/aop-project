@@ -151,7 +151,6 @@
 
         .controls #vidTitle {
             width: 246px;
-            padding-bottom: 10px;
         }
 
         .controls#qualitySettings button,
@@ -176,6 +175,16 @@
             padding: 10px 20px;
             border-radius: 0 10px 0 0;
             background: rgba(0, 0, 0, 0.3);
+        }
+
+        @media screen and (-webkit-min-device-pixel-ratio: 0) {
+            .controls #vidTitle {
+                padding-bottom: 10px;
+            }
+
+            .controls #vidTitle .title-marquee {
+                margin-bottom: -5px;
+            }
         }
     </style>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -379,7 +388,7 @@
                 baseDir = 'storage/';
             }
             vidSource.src = baseDir + opList.items[currentVideoId].file[videoQuality].filename;
-            vidTitle.innerHTML = '<marquee behavior="scroll" scrollamount="3" direction="left" width="246" style="margin-bottom: -5px;">' + opList.items[currentVideoId].title + '</marquee>';
+            vidTitle.innerHTML = '<marquee class="title-marquee" behavior="scroll" scrollamount="3" direction="left" width="246">' + opList.items[currentVideoId].title + '</marquee>';
             qualityInfo.innerHTML = opList.items[currentVideoId].file[videoQuality].quality;
             vid.load();
             vid.classList.remove("stopfade");
